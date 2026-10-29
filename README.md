@@ -10,4 +10,4 @@ Student Life Manager is a website that helps students organize their university 
 
 The goal is to make student life easier, help you manage your time and money, and stay on track with your academic goals.
 
-🚀 Try the Live Demo
+🚀 **[Try the Live Demo](https://rawinan-txt.github.io/student-life-manager/)**
