@@ -9,3 +9,5 @@ Student Life Manager is a website that helps students organize their university 
 - 🎯 Calculate your GPA and find out what grades you need to reach your target GPA.
 
 The goal is to make student life easier, help you manage your time and money, and stay on track with your academic goals.
+
+🚀 Try the Live Demo
